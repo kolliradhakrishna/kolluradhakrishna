@@ -29,7 +29,7 @@ const Hero = () => {
             </h1>
 
             <div className="h-12 md:h-16 mb-8 text-xl md:text-3xl text-gray-400 font-mono">
-              <TypewriterText text="AI/ML Enthusiast" />
+              <TypewriterText text="AsI/ML Enthusiast" />
             </div>
 
             <div className="flex flex-wrap justify-center md:justify-start gap-4 mb-12">
